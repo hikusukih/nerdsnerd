@@ -43,7 +43,7 @@ https://trello.com/b/xDSFfIxH/nn-on-rails
 * indicate what you will contribute
 
 
-== Data Structures
+== Data Structures 
 User (Administrator, attendee)
 Event
 SongInfo
